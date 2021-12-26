@@ -1,0 +1,1 @@
+Create a moddel that can predict the profit of the company based on company's location and its spending pattern

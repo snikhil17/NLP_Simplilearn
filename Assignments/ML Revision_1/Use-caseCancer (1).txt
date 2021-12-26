@@ -1,0 +1,17 @@
+Assignment Use-case:
+
+Cancer Detection Modelling (Label: diagnosis, Features: remaining columns except id column)
+
+Deploy two best model based on the following criteria
+
+Model1: Get the best model based on Confusion Matrix and Numerical Metrics
+
+Model2: Get the best model based on Viz Metrics
+
+
+Visualize the decision regions of the generated model based on two features that has highest significance in the dataset with respect to the label.
+Hint:
+	To find the two best features, you can use support method using SBM that you
+	have learned in Feature Engineering class :)
+
+
